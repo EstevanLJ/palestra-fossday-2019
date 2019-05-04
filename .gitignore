@@ -1,0 +1,4 @@
+venv-tensorflow/
+.vscode/
+logs/
+symbolicLogs/
